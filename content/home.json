@@ -13,22 +13,9 @@
       "enabled": true
     },
     {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "collection_id": null,
-      "sort": "highest_price",
-      "title": "",
-      "headless": true,
-      "limit": 20,
-      "page": 1
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "sort": "lowest_price",
-      "headless": true
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "highest_price"
     }
   ]
 }
