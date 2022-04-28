@@ -1,1 +1,8 @@
 // Add your custom CSS here.
+.product__free-shipping-from strong {
+  font-size: 0px;
+  &:after {
+    content: ' R$ 899,00';
+    font-size: 1rem !important
+  }
+}
