@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.4537696eb216d3c28289d57c8bfd6bb7.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.8d289e5ba225cc148d39930a83e62928.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.e1235b0b0e1445e4d283767544b6ca24.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.a70dd383c8a22b9ecde12a281ca3e831.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.db7a0361917b1d6df0cbdd2331529b51.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Movelaria Industrial",
+  "short_name": "Movelaria Industrial",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Movelaria Industrial",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
